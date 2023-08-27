@@ -1,4 +1,5 @@
-# Interior-design-mobile-application-using-markerless-AR
-It is a mobile application which helps to suggest virtual recommendations to decorate the three dimensional space virtually using markerless augmented reality(AR).
+# Interior-design-app-using-AR
+It is an application which the furniture and furnishings will develop in three dimensional surface of object and present by using augmented reality. It is the application that can be use in the mobile phones, tab and etc. especially using Android platform to choose furniture that suitable for their house.
 
-Read more about this android application: Do visit my publication: https://www.irjet.net/archives/V9/i5/IRJET-V9I5544.pdf
+Check my blog also to get all information about project 
+https://medium.com/@gansawant07/interior-design-app-using-ar-6957cecdf1da
