@@ -10,7 +10,7 @@ It is a mobile application which the furniture and furnishings will develop in t
 
 ## Project Demo Video
 
-[Demo Video](https://drive.google.com/file/d/1tDf3gI5dF6VvHTEszzOn_BBVRilfQbJj/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1bXhQwKHg6HTKeNEQ-UV3w6jq0hhLORXP/view?usp=sharing)
 
 ## Project Screenshots
 
